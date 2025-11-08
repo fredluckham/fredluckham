@@ -1,6 +1,6 @@
-# Hey there, I'm Fred
+# Fred Luckham
 
-**DevOps Engineer | Cloud-Native Enthusiast | AWS Certified**
+**DevOps Engineer | Cloud-Native Enthusiast | Devloper | AWS Certified**
 
 ---
 
@@ -40,8 +40,6 @@ I'm proud to hold the following **AWS certifications**:
 
 ### What I’m Currently Exploring  
 
-- Building scalable **internal developer platforms**  
-- Implementing **GitOps** workflows  
 - Learning Rust
 
 ---
