@@ -1,15 +1,15 @@
-# 👋 Hey there, I'm Fred
+# Hey there, I'm Fred
 
-🚀 **DevOps Engineer | Cloud-Native Enthusiast | AWS Certified**
+**DevOps Engineer | Cloud-Native Enthusiast | AWS Certified**
 
 ---
 
-### 🧩 About Me  
+### About Me  
 
 I'm a **DevOps Engineer** passionate about building **cloud-native applications**, automating everything, and optimizing developer workflows.  
 I love working with **AWS**, **Python**, and **Go**, and I’m a big believer in **infrastructure as code**, **continuous delivery**, and **observability**.
 
-💡 My day-to-day involves:
+My day-to-day involves:
 - Designing **CI/CD pipelines** that deliver fast, safe, and scalable software  
 - Writing **Terraform** and **CloudFormation** to manage cloud infrastructure  
 - Developing **APIs**, **automation tools**, and **observability platforms**  
@@ -17,16 +17,16 @@ I love working with **AWS**, **Python**, and **Go**, and I’m a big believer in
 
 ---
 
-### ☁️ Cloud & Certifications  
+### Cloud & Certifications  
 
 I'm proud to hold the following **AWS certifications**:  
-- 🧠 **AWS Certified DevOps Engineer – Professional**  
-- 💻 **AWS Certified Developer – Associate**  
-- 🤖 **AWS Certified Generative AI – Foundational**
+- **AWS Certified DevOps Engineer – Professional**  
+- **AWS Certified Developer – Associate**  
+- **AWS Certified Generative AI – Foundational**
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 
 | Domain | Tools & Technologies |
 |:-------|:---------------------|
@@ -38,7 +38,7 @@ I'm proud to hold the following **AWS certifications**:
 
 ---
 
-### 🌱 What I’m Currently Exploring  
+### What I’m Currently Exploring  
 
 - Building scalable **internal developer platforms**  
 - Implementing **GitOps** workflows  
@@ -46,9 +46,9 @@ I'm proud to hold the following **AWS certifications**:
 
 ---
 
-### 📫 Let’s Connect  
+### Let’s Connect  
 
-- 💼 [LinkedIn](https://uk.linkedin.com/in/frederick-luckham-a28a1a150)  
+-  [LinkedIn](https://uk.linkedin.com/in/frederick-luckham-a28a1a150)  
 
 ---
 
