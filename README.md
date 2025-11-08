@@ -1,6 +1,6 @@
 # Fred Luckham
 
-**DevOps Engineer | Cloud-Native Enthusiast | Devloper | AWS Certified**
+**DevOps Engineer | Cloud-Native Enthusiast | Developer | AWS Certified**
 
 ---
 
