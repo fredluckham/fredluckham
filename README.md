@@ -20,7 +20,9 @@ My day-to-day involves:
 ### Cloud & Certifications  
 
 I'm proud to hold the following **AWS certifications**:  
-- **AWS Certified DevOps Engineer – Professional**  
+- **AWS Certified DevOps Engineer – Professional**
+- **AWS Certified GenAI Developer - Professional (Early Adopter)**
+- **AWS Certified AI Strategist - Business (Early Adopter)**
 - **AWS Certified Developer – Associate**  
 - **AWS Certified Generative AI – Foundational**
 
